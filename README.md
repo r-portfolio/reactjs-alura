@@ -14,3 +14,14 @@ Neste curso pude aprender os seguintes tópicos.
 3. Utilizar uma abordagem moderna
 
 4. Conhecer o Ecossistema
+
+
+###Projetos
+
+
+| Projetos                                              | Live Preview                    | Code                         |
+| ------------------------------------------------------ | ----------    | :--: | :-: | :-: | :-: | --------------------------------------------------------------------------------------------------------------------------------------  | --------------------------------------------------------------------------- |
+| React Smart Bank  | [ Live Preview](https://react-smart-bank.vercel.app/) | [Code](./challenges/rest-countries-api-with-color-theme-switcher) |
+
+
+
