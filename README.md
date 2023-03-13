@@ -19,9 +19,11 @@ Neste curso pude aprender os seguintes tópicos.
 ###Projetos
 
 
-| Projetos                                              | Live Preview                    | Code                         |
+| Projetos                                              | Live Preview                    | Code                        
 | ------------------------------------------------------ | ----------    | :--: | :-: | :-: | :-: | --------------------------------------------------------------------------------------------------------------------------------------  | --------------------------------------------------------------------------- |
 | React Smart Bank  | [ Live Preview](https://react-smart-bank.vercel.app/) | [Code](./challenges/rest-countries-api-with-color-theme-switcher) |
+
+| React Smart Bank           | Advanced   | [ Live Preview](https://bobthered.github.io/frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher/build/)           | [Code](./challenges/rest-countries-api-with-color-theme-switcher)           |
 
 
 
