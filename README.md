@@ -27,10 +27,10 @@ Neste curso pude aprender os seguintes tópicos.
 
 
 ### Advanced
-| Challenge                                              | Difficulty    | HTML | CSS | JS  | API | Live Preview                                                                                                                            | Code                                                                        |
+| Challenge                                              | Dificuldade    | HTML | CSS | JS  | API | Visualização ao vivo                                                                                                                          | Código                                                                        |
 | ------------------------------------------------------ | ----------    | :--: | :-: | :-: | :-: | --------------------------------------------------------------------------------------------------------------------------------------  | --------------------------------------------------------------------------- |
 | React Smart Bank                                       | Advanced     | ✔️    | ✔️  | ✔️  |     | [ Live Preview](https://react-smart-bank.vercel.app/)           | [Code](./challenges/rest-countries-api-with-color-theme-switcher)           |
-| Rock, Paper, Scissors game                             | Advanced     | ✔️    | ✔️  |     |     | [ Live Preview](https://bobthered.github.io/frontendmentor.io/challenges/rock-paper-scissors/)                                          | [Code](./challenges/rock-paper-scissors)                                    |
+
 
 
 
