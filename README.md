@@ -21,9 +21,7 @@ Neste curso pude aprender os seguintes tópicos.
 | Tarefa                                                 | Dificuldade    | HTML | CSS | JS  | API | Visualização ao vivo                                                                                                                          | Código                                                                        |
 | ------------------------------------------------------ | ----------    | :--: | :-: | :-: | :-: | --------------------------------------------------------------------------------------------------------------------------------------  | --------------------------------------------------------------------------- |
 | React Smart Bank                                       | Advanced     | ✔️    | ✔️  | ✔️  |     | [ Visualização ao vivo](https://react-smart-bank.vercel.app/)           | [Code]()           |
-
-|Formulário de Cadastro                                  | Advanced     | ✔️    | ✔️  | ✔️  |     | [ Visualização ao vivo]()          
-| [Code]()                 |   
+ 
 
 
 
