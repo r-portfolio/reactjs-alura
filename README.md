@@ -1,7 +1,7 @@
 # Formação React
 Crie aplicações web modernas com React!
 
-![Alura](https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
+![Alura](https://res.cloudinary.com/practicaldev/image/fetch/s--50wZvNu6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1wwdyw5de8avrdkgtz5n.png)
 
 O React é uma biblioteca da linguagem JavaScript e uma das formas mais modernas para a criação de aplicações web. Ela trabalha de forma declarativa, eficiente e flexível, possibilitando a criação de interações complexas.
 
