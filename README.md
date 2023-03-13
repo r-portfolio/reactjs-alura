@@ -27,10 +27,10 @@ Neste curso pude aprender os seguintes tópicos.
 
 
 ### Advanced
-| Tarefa                                              | Difficulty    | HTML | CSS | JS | Live Preview                                                                                                                            | Code                                                                        |
+| Challenge                                              | Difficulty    | HTML | CSS | JS  | API | Live Preview                                                                                                                            | Code                                                                        |
 | ------------------------------------------------------ | ----------    | :--: | :-: | :-: | :-: | --------------------------------------------------------------------------------------------------------------------------------------  | --------------------------------------------------------------------------- |
-| React Smart Bank           | Advanced     | ✔️    | ✔️  | ✔️  | [ Live Preview]((https://react-smart-bank.vercel.app)           | [Code]()           |
-| Rock, Paper, Scissors game                             | Advanced     | ✔️    | ✔️  |   | [ Live Preview](https://bobthered.github.io/frontendmentor.io/challenges/rock-paper-scissors/)                                          | [Code](./challenges/rock-paper-scissors)                                    |
+| React Smart Bank                                       | Advanced     | ✔️    | ✔️  | ✔️  |     | [ Live Preview](https://react-smart-bank.vercel.app/)           | [Code](./challenges/rest-countries-api-with-color-theme-switcher)           |
+| Rock, Paper, Scissors game                             | Advanced     | ✔️    | ✔️  |     |     | [ Live Preview](https://bobthered.github.io/frontendmentor.io/challenges/rock-paper-scissors/)                                          | [Code](./challenges/rock-paper-scissors)                                    |
 
 
 
