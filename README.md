@@ -16,20 +16,11 @@ Neste curso pude aprender os seguintes tópicos.
 4. Conhecer o Ecossistema
 
 
-###Projetos
+### Projetos
 
-
-| Projetos                                              | Live Preview                    | Code                        
+| Tarefa                                                 | Dificuldade    | HTML | CSS | JS  | API | Visualização ao vivo                                                                                                                          | Código                                                                        |
 | ------------------------------------------------------ | ----------    | :--: | :-: | :-: | :-: | --------------------------------------------------------------------------------------------------------------------------------------  | --------------------------------------------------------------------------- |
-| React Smart Bank  | [ Live Preview](https://react-smart-bank.vercel.app/) | [Code](./challenges/rest-countries-api-with-color-theme-switcher) |
-
-| React Smart Bank           | Advanced   | [ Live Preview](https://bobthered.github.io/frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher/build/)           | [Code](./challenges/rest-countries-api-with-color-theme-switcher)           |
-
-
-### Advanced
-| Challenge                                              | Dificuldade    | HTML | CSS | JS  | API | Visualização ao vivo                                                                                                                          | Código                                                                        |
-| ------------------------------------------------------ | ----------    | :--: | :-: | :-: | :-: | --------------------------------------------------------------------------------------------------------------------------------------  | --------------------------------------------------------------------------- |
-| React Smart Bank                                       | Advanced     | ✔️    | ✔️  | ✔️  |     | [ Live Preview](https://react-smart-bank.vercel.app/)           | [Code](./challenges/rest-countries-api-with-color-theme-switcher)           |
+| React Smart Bank                                       | Advanced     | ✔️    | ✔️  | ✔️  |     | [ Visualização ao vivo](https://react-smart-bank.vercel.app/)           | [Code](./challenges/rest-countries-api-with-color-theme-switcher)           |
 
 
 
