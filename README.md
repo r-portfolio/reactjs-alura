@@ -20,8 +20,9 @@ Neste curso pude aprender os seguintes tópicos.
 
 | Tarefa                                                 | Dificuldade    | HTML | CSS | JS  | API | Visualização ao vivo                                                                                                                          | Código                                                                        |
 | ------------------------------------------------------ | ----------    | :--: | :-: | :-: | :-: | --------------------------------------------------------------------------------------------------------------------------------------  | --------------------------------------------------------------------------- |
-| React Smart Bank                                       | Advanced     | ✔️    | ✔️  | ✔️  |     | [ Visualização ao vivo](https://react-smart-bank.vercel.app/)           | [Code]()           |
+| React Smart Bank                                       | Advanced     | ✔️    | ✔️  | ✔️  |     | [ Visualização ao vivo](https://react-smart-bank.vercel.app/)           | [Code](https://github.com/r-portfolio/reactjs-alura/tree/master/8%20-%20React%20Abstraindo%20seu%20CSS%20com%20Styled%20Components/alura-styled-components-master)           |
  
+
 
 
 
